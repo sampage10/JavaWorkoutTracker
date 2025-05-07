@@ -1,0 +1,5 @@
+
+WORKOUT:pull
+Squat;2;3;3
+END
+
