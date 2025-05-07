@@ -1,6 +1,0 @@
-Workout: pull
-Date: 2025-05-06
-Exercise: Squat
-Set 1 Reps: 2 Weight: 2
-Set 2 Reps: 2 Weight: 2
-
