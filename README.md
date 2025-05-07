@@ -10,3 +10,5 @@ This is a console-based Java application designed to allow users to create, save
 
 ## Demo Video:
 https://youtu.be/pgRD9hP4oJs
+
+### Author: Sam Page
